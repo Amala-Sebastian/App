@@ -7,3 +7,4 @@ import  streamlit as st
 
 st.title("FAKE NEWS DETECTION")
 input_text=st.text_input("Enter news article")
+st.text("The news is fake")
